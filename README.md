@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Portfolio" src="/Portfolio_demo.mp4" width="90%">
+<img alt="Portfolio" src="https://github.com/KnyazevAlex/Portfolio/blob/master/public/NotesApp_demo.mp4" width="90%">
 </div>
 
 
