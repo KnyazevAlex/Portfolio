@@ -1,6 +1,6 @@
 'use client'
 
-import {useTransform, useMotionValue, useSpring, motion} from "framer-motion";
+import {useTransform, useMotionValue, useSpring, motion} from "motion/react";
 
 const TiltCard = ({children, className} : {children: React.ReactNode, className?: string}) => {
 

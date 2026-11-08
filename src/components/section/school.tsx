@@ -2,7 +2,7 @@
 
 import BlurFade from "@/components/magicui/blur-fade";
 import TiltCard from "@/components/3d/tilt-card";
-import {motion} from "framer-motion";
+import {motion} from "motion/react";
 import Image from "next/image";
 import { useTheme } from "next-themes";
 import {useEffect, useState} from "react";
